@@ -1,0 +1,3 @@
+[submodule "private-reports"]
+	path = private-reports
+	url = https://github.com/Epchannel/Bao-cao-Do-an-KHMT.git
